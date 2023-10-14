@@ -35,9 +35,9 @@ class Mahasiswa(Orang,Alamat):
         return f"{self.firstname} {self.lastname} {self.nim}"
 
     def printdata(self):
-        print(f"Nama : {self.getfirstname()} {self.lastname}")
-        print(f"NIM : {self.nim}")
-        print(f"Alamat : {self.jalan}, {self.kota}")
+        print(f"Nama    : {self.getfirstname()} {self.lastname}")
+        print(f"NIM     : {self.nim}")
+        print(f"Alamat  : {self.jalan}, {self.kota}")
 
 mhs = Mahasiswa("ILHAM","FADILAH","2207009","Bayongbong","Garut")
 mhs.printdata()
