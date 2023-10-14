@@ -1,6 +1,6 @@
 # Nama  :ILHAM FADILAH
 # NIM   :2207009
-# PBO
+# PBO0
 # TUGAS 3
 
 class Orang():
