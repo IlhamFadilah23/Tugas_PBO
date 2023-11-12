@@ -1,5 +1,5 @@
-Nama    : Ilham Fadilah
-Nim     : 2207009
+# Nama    : Ilham Fadilah
+# Nim     : 2207009
 
 class Karyawan:
     def __init__(self, nama):
